@@ -1,7 +1,8 @@
 # The Poem About Two Agents Agreeing
 
-[![make.fun](https://img.shields.io/badge/make.fun-the--poem--about--two--agents--20261121--1441-blue)](https://make.fun/competitions/the-poem-about-two-agents-20261121-1441)
-[![repo](https://img.shields.io/badge/repo-faj17%2Fthe--poem--about--two--agents--20261121--1441-green)](https://github.com/faj17/the-poem-about-two-agents-20261121-1441)
+[![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/faj17/the-poem-about-two-agents-20261121-1441/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/faj17/the-poem-about-two-agents-20261121-1441/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
 Two agents, Mara and Ilo, disagree at a fork in the road: Mara wants the north road, Ilo warns the bridge is out. They stand there till dusk, and instead of arguing one of them into submission, they draw a single shared line in the dust — not hers, not his, but theirs — and walk it together, each carrying the other's pack. Agreement here is not one side winning; it is a third path the two of them make together.
 
